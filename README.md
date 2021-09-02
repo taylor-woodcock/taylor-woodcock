@@ -6,8 +6,8 @@
   <br>
   <a style="line-height:50px;font-size:50px;">✨</a>
   <!-- GoLang Gopher -->
-  <a href="https://golang.org/"> <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="80" style="vertical-align:middle; margin:4px"></a>
-  <a href="https://comnoco.io/"> <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="80" style="vertical-align:middle; margin:4px"></a>
+  <a href="https://golang.org/"> <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="60" style="vertical-align:middle; margin:4px"></a>
+  <a href="https://comnoco.io/"> <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="60" style="vertical-align:middle; margin:4px"></a>
   <a style="line-height:50px;font-size:50px;">✨</a>
   <br>
   <br>I am a stack agnostic, highly adaptable software engineer and maker who loves to learn new things!
@@ -78,6 +78,9 @@
   <a href="https://www.microsoft.com/en-gb/windows"> <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Android Icon -->
   <a href="https://www.android.com/"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>
+  <!-- Arduino Icon -->
+  <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="30" style="vertical-align:top; margin:4px"></a>
+  
 </p>
 
 
