@@ -1,7 +1,8 @@
 <h1 align='center'>Hello, I'm Taylor! 👋</h1>
 
 <p align='center'>
-  <br>Currently working as a Senior GoLang Engineer for Comnoco.io, working on building microservices with go-kit.
+  <br>Currently working as a Senior GoLang Engineer for Comnoco.io, building microservices with go-kit.
+  <br>
   <br>
   <a style="line-height:50px;font-size:30px;">✨</a>
   <!-- GoLang Gopher -->
@@ -10,6 +11,7 @@
   <!-- Comnoco Icon -->
   <a href="https://comnoco.io/"> <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="80" style="vertical-align:middle; margin:4px"></a>
   <a style="line-height:50px;font-size:30px;">✨</a>
+  <br>
   <br>I am a stack agnostic, highly adaptable software engineer and maker who loves to learn new things!
   <br>
   <br>⬇ Find me here ⬇
