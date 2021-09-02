@@ -90,14 +90,14 @@ I primarily use Visual Studio Code as it supports the languages I use and puts e
 Extensions and settings gist coming soon!
 
 <!-- VSCode Icon -->
-<a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="60" style="vertical-align:top; margin:4px"></a>
+<a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="50" style="vertical-align:top; margin:4px"></a>
 
 For quick Arduino development, I will use the Arduino IDE, but I usually try to stay within VSCode.
 
 <!-- Arduino Icon -->
-<a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="60" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="50" style="vertical-align:top; margin:4px"></a>
 
 For Android applications, I will occastionally use Android Studio to create emulators.
 
 <!-- Android Icon -->
-<a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="80" style="vertical-align:top; margin:4px"></a>
+<a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="60" style="vertical-align:top; margin:4px"></a>
