@@ -4,13 +4,11 @@
   <br>Currently working as a Senior GoLang Engineer for <a href="https://comnoco.io/">Comnoco.io</a>, building microservices with go-kit.
   <br>
   <br>
-  <a style="line-height:50px;font-size:30px;">✨</a>
+  <a style="line-height:50px;font-size:50px;">✨</a>
   <!-- GoLang Gopher -->
   <a href="https://golang.org/"> <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="80" style="vertical-align:middle; margin:4px"></a>
-  <a style="line-height:50px;font-size:30px;">➕</a>
-  <!-- Comnoco Icon -->
   <a href="https://comnoco.io/"> <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="80" style="vertical-align:middle; margin:4px"></a>
-  <a style="line-height:50px;font-size:30px;">✨</a>
+  <a style="line-height:50px;font-size:50px;">✨</a>
   <br>
   <br>I am a stack agnostic, highly adaptable software engineer and maker who loves to learn new things!
   <br>
