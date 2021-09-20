@@ -1,7 +1,7 @@
 <h1 align='center'>Hello, I'm Taylor! 👋</h1>
 
 <p align='center'>
-  <br>Currently working as a Senior GoLang Engineer for <a href="https://comnoco.io/">Comnoco.io</a>, building microservices with go-kit.
+  <br>Currently working as a Senior Software Engineer for <a href="https://comnoco.io/">Comnoco.io</a>, building microservices in Go using go-kit.
   <br>
   <br>
   <a style="line-height:50px;font-size:50px;">✨</a>
