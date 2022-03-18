@@ -111,6 +111,7 @@ Take a look at some of my more interesting repositories!
 
 ## Environment and Tools
 <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=taylor-woodcock&show_icons=true&count_private=true" align="right" />
   <!-- VSCode Icon -->
   <a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="50" style="vertical-align:top; margin:4px"></a> 
   <!-- Arduino Icon -->
