@@ -27,6 +27,10 @@
   <a href="https://twitter.com/tt_aa_yy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
+<p align="center" style="font-size:10px">
+  🌗 Some icons may be difficult to see in dark mode 🌓
+</p>
+
 ## Languages
 <p>
   <!-- GoLang -->
@@ -104,6 +108,13 @@
   <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="60" style="vertical-align:top; margin:4px"></a> 
 </p>
 
-<p align="center" style="font-size:10px">
-  🌗 Some icons may be difficult to see in dark mode 🌓
+## My Repos
+Take a look at some of my more interesting repositories!
+<p>
+  <a href="https://github.com/taylor-woodcock/z-viz">📈 z-viz - A Google Zanzibar relation tuple Graphviz generator</a>
+  <br>
+  <a href="https://github.com/taylor-woodcock/miditik">🎹 MidiTik - Turn your MikroTik router into a MIDI-controllable instrument!</a>
+  <br>
+  <br>
 </p>
+(This list will be updated soon!)
