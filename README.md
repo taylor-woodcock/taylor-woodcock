@@ -31,6 +31,17 @@
   🌗 Some icons may be difficult to see in dark mode 🌓
 </p>
 
+## My Repos
+Take a look at some of my more interesting repositories!
+<p>
+  <a href="https://github.com/taylor-woodcock/z-viz">📈 z-viz</a> - A Google Zanzibar relation tuple Graphviz generator
+  <br>
+  <a href="https://github.com/taylor-woodcock/miditik">🎹 MidiTik</a> - Turn your MikroTik router into a MIDI-controllable instrument!
+  <br>
+</p>
+(This list will be updated soon!)
+
+
 ## Languages
 <p>
   <!-- GoLang -->
@@ -107,14 +118,3 @@
   <!-- Android Icon -->
   <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="60" style="vertical-align:top; margin:4px"></a> 
 </p>
-
-## My Repos
-Take a look at some of my more interesting repositories!
-<p>
-  <a href="https://github.com/taylor-woodcock/z-viz">📈 z-viz - A Google Zanzibar relation tuple Graphviz generator</a>
-  <br>
-  <a href="https://github.com/taylor-woodcock/miditik">🎹 MidiTik - Turn your MikroTik router into a MIDI-controllable instrument!</a>
-  <br>
-  <br>
-</p>
-(This list will be updated soon!)
