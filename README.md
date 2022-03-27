@@ -34,9 +34,9 @@
 ## My Repos
 Take a look at some of my more interesting repositories!
 <p>
-  <a href="https://github.com/taylor-woodcock/z-viz">📈 z-viz</a> - A Google Zanzibar relation tuple Graphviz generator
+  <a href="https://github.com/taylow/z-viz">📈 z-viz</a> - A Google Zanzibar relation tuple Graphviz generator
   <br>
-  <a href="https://github.com/taylor-woodcock/miditik">🎹 MidiTik</a> - Turn your MikroTik router into a MIDI-controllable instrument!
+  <a href="https://github.com/taylow/miditik">🎹 MidiTik</a> - Turn your MikroTik router into a MIDI-controllable instrument!
   <br>
 </p>
 (This list will be updated soon!)
@@ -81,7 +81,7 @@ Take a look at some of my more interesting repositories!
 ## Technologies
 <p>
 <!-- GitHub -->
-  <a href="https://www.github.com/taylor-woodcock/"> <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Git" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.github.com/taylow/"> <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Git" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Firebase -->
   <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- NodeJs -->
@@ -111,7 +111,7 @@ Take a look at some of my more interesting repositories!
 
 ## Environment and Tools
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=taylor-woodcock&show_icons=true&count_private=true&theme=tokyonight" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" />
   <!-- VSCode Icon -->
   <a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="50" style="vertical-align:top; margin:4px"></a> 
   <!-- Arduino Icon -->
