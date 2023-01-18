@@ -1,19 +1,53 @@
 <h1 align='center'>Hello, I'm Taylor! 👋</h1>
 
 <p align='center'>
-  <br>Currently working as a Senior Software Engineer for <a href="https://comnoco.io/">Comnoco.io</a>, building a no-code SaaS platform in Go and Vue.js
-  <br>
-  <br>
-  <a style="font-size:50px;">✨</a> 
-  <!-- GoLang Gopher -->
-  <a href="https://golang.org/"> <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="60" style="vertical-align:middle; margin:4px"></a>  ＋ 
-  <a href="https://vuejs.org/"> <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="60" style="vertical-align:middle; margin:4px"></a> =  
-  <a href="https://comnoco.io/"> <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="60" style="vertical-align:middle; margin:4px"></a> 
-  <a style="font-size:50px;">✨</a>
-  <br>
-  <br>I am a stack agnostic, highly adaptable software engineer and maker who loves to learn new things!
-  <br>
-  <br>⬇  Find me here  ⬇
+  Welcome to my GitHub profile!
+</p>
+
+I'm a software engineer who loves to learn new things and build cool stuff. I don't limit myself to a specific stack, and can quickly adapt to any technology thrown at me. I'm a maker and enjoy experimenting with different tools and techniques to bring ideas to life.
+
+<br>
+<br>
+
+<a href="https://comnoco.io/">
+  <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+</a>
+
+I have worked on a couple of no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, the other with [Comnoco](https://comnoco.com/) working on a visual programming language and functions as a service no-code platform, connecting web technologies.
+
+<br>
+<br>
+
+<!-- GoLang Gopher -->
+<a href="https://golang.org/">
+  <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="200" style="float:right;vertical-align:top; margin-left:30px; margin-right:30px;">
+</a>
+
+My go-to language is currently Go, but I have experience with a wide range of languages and technologies, and have developed skills that help me navigate the unknown.
+
+<br>
+<br>
+
+In addition to software development, I also have a love for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more. I also love 3D printing, and have a modded Ender Pro 3 <i style="font-size:8px">that I use to print [atriculated slugs](https://www.thingiverse.com/thing:2818955)</i>
+
+<br>
+<br>
+
+<a href="https://comnoco.io/">
+  <img src="https://cdn-icons-png.flaticon.com/512/3902/3902837.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+</a>
+
+When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
+
+<br>
+<br>
+
+<p align="center">
+  Thanks for stopping by and I hope you find something interesting here! 🔥
+</p>
+
+<p align="center">
+  <br>⬇  find me  ⬇
 </p>
 
 <p align="center">
@@ -22,16 +56,30 @@
 
 <p align="center">
   <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/taylor-woodcock/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a>  
+  <a href="https://www.linkedin.com/in/taylor-woodcock/"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg"
+         alt="LinkedIn"
+         height="30"
+         style="vertical-align:top; margin:4px">
+  </a> 
   <!-- Twitter Icon -->
-  <a href="https://twitter.com/tt_aa_yy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://twitter.com/tt_aa_yy"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://cdn.svgporn.com/logos/twitter.svg"
+         alt="Twitter"
+         height="30"
+         style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 <p align="center" style="font-size:10px">
-  🌗 Some icons may be difficult to see in dark mode 🌓
+  🌗 Some icons may be difficult to see in dark mode - sorry :c 🌓
 </p>
 
-## My Repos
+<!-- ## My Repos
 Take a look at some of my more interesting repositories!
 <p>
   <a href="https://github.com/taylow/z-viz">📈 z-viz</a> - A Google Zanzibar relation tuple Graphviz generator
@@ -39,7 +87,7 @@ Take a look at some of my more interesting repositories!
   <a href="https://github.com/taylow/miditik">🎹 MidiTik</a> - Turn your MikroTik router into a MIDI-controllable instrument!
   <br>
 </p>
-(This list will be updated soon!)
+(This list will be updated soon!) -->
 
 
 ## Languages
@@ -92,10 +140,12 @@ Take a look at some of my more interesting repositories!
   <a href="https://kubernetes.io/"> <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="Kubernetes" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Google Cloud -->
   <a href="https://cloud.google.com/"> <img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="Google Cloud" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/"> <img src="https://cdn.svgporn.com/logos/aws.svg" alt="Google Cloud" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Postgres -->
   <a href="https://www.postgresql.org/"> <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- SQLite -->
   <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Linux -->
@@ -108,14 +158,19 @@ Take a look at some of my more interesting repositories!
   <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="30" style="vertical-align:top; margin:4px"></a>   
 </p>
 
-
-## Environment and Tools
-<p>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" /> -->
-  <!-- VSCode Icon -->
-  <a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="50" style="vertical-align:top; margin:4px"></a> 
-  <!-- Arduino Icon -->
-  <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="50" style="vertical-align:top; margin:4px"></a> 
-  <!-- Android Icon -->
-  <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="60" style="vertical-align:top; margin:4px"></a> 
+<p align="center" style="font-size:10px">
+  this is not an exhaustive list
 </p>
+
+
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" /> -->
+
+<!-- ## Environment and Tools -->
+<!-- <p> -->
+  <!-- VSCode Icon -->
+  <!-- <a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="30" style="vertical-align:top; margin:4px"></a>  -->
+  <!-- Arduino Icon -->
+  <!-- <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="30" style="vertical-align:top; margin:4px"></a>  -->
+  <!-- Android Icon -->
+  <!-- <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>  -->
+<!-- </p> -->
