@@ -7,7 +7,6 @@
 I'm a software engineer who loves to learn new things and build cool stuff. I don't limit myself to a specific stack, and can quickly adapt to any technology thrown at me. I'm a maker and enjoy experimenting with different tools and techniques to bring ideas to life.
 
 <br>
-<br>
 
 <!-- Comnoco Logo -->
 <!-- <a href="https://comnoco.io/">
@@ -16,7 +15,6 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
 
 I have worked on a couple of no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, the other with [Comnoco](https://comnoco.com/) working on a visual programming language and functions as a service no-code platform, connecting web technologies.
 
-<br>
 <br>
 
 <!-- GoLang Gopher -->
@@ -27,11 +25,9 @@ I have worked on a couple of no-code tools - one being [MakeCode for the BBC mic
 My go-to language is currently Go, but I have experience with a wide range of languages and technologies, and have developed skills that help me navigate the unknown.
 
 <br>
-<br>
 
 In addition to software development, I also have a love for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more. I also love 3D printing, and have a modded Ender Pro 3 <i style="font-size:8px">that I use to print [atriculated slugs](https://www.thingiverse.com/thing:2818955)</i>
 
-<br>
 <br>
 
 <!-- <a href="#">
@@ -40,7 +36,6 @@ In addition to software development, I also have a love for embedded systems and
 
 When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
 
-<br>
 <br>
 
 <p align="center">
