@@ -9,9 +9,10 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
 <br>
 <br>
 
-<a href="https://comnoco.io/">
+<!-- Comnoco Logo -->
+<!-- <a href="https://comnoco.io/">
   <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-</a>
+</a> -->
 
 I have worked on a couple of no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, the other with [Comnoco](https://comnoco.com/) working on a visual programming language and functions as a service no-code platform, connecting web technologies.
 
@@ -19,9 +20,9 @@ I have worked on a couple of no-code tools - one being [MakeCode for the BBC mic
 <br>
 
 <!-- GoLang Gopher -->
-<a href="https://golang.org/">
+<!-- <a href="https://golang.org/">
   <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="200" style="float:right;vertical-align:top; margin-left:30px; margin-right:30px;">
-</a>
+</a> -->
 
 My go-to language is currently Go, but I have experience with a wide range of languages and technologies, and have developed skills that help me navigate the unknown.
 
@@ -33,9 +34,9 @@ In addition to software development, I also have a love for embedded systems and
 <br>
 <br>
 
-<a href="https://comnoco.io/">
+<!-- <a href="#">
   <img src="https://cdn-icons-png.flaticon.com/512/3902/3902837.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-</a>
+</a> -->
 
 When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
 
