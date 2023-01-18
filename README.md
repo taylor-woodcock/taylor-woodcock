@@ -13,7 +13,7 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
   <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
 </a> -->
 
-I have worked on a couple of no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, the other with [Comnoco](https://comnoco.com/) working on a visual programming language and functions as a service no-code platform, connecting web technologies.
+I have worked on a few of no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, another with [Comnoco](https://comnoco.com/) working on a visual programming language and functions as a service no-code platform, connecting web technologies.
 
 <br>
 
