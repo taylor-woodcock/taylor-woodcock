@@ -22,7 +22,7 @@ I have worked on a few of no-code tools - one being [MakeCode for the BBC micro:
   <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="200" style="float:right;vertical-align:top; margin-left:30px; margin-right:30px;">
 </a> -->
 
-My go-to language is currently Go, but I have experience with a wide range of languages and technologies, and have developed skills that help me navigate the unknown.
+My go-to language is currently Go, but I have experience with a wide range of languages and technologies, and have developed skills that allow me to navigate the unknown.
 
 <br>
 
