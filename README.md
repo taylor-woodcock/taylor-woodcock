@@ -112,40 +112,36 @@ Take a look at some of my more interesting repositories!
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height="30" style="vertical-align:top; margin:4px"></a> 
 </p>
 
-## Frameworks
-<p style="color: red;">
-  <!-- Flutter -->
-  <a href="https://flutter.dev/"> <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- VueJS -->
-  <a href="https://vuejs.org/"> <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- GoKit -->
-  <a href="https://gokit.io/"> <img src="https://gokit.io/gokit-logo-header.png" alt="GoKit" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- ExpressJS -->
-  <a href="https://expressjs.com/"> <img src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" alt="ExpressJS" height="30" style="vertical-align:top; margin:4px"></a> 
-</p>
-
 ## Technologies
 <p>
 <!-- GitHub -->
   <a href="https://www.github.com/taylow/"> <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Git" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- NodeJs -->
-  <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/"> <img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="Google Cloud" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/"> <img src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Docker -->
   <a href="https://docker.com/"> <img src="https://cdn.svgporn.com/logos/docker.svg" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/"> <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="Kubernetes" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- Google Cloud -->
-  <a href="https://cloud.google.com/"> <img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="Google Cloud" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/"> <img src="https://cdn.svgporn.com/logos/aws.svg" alt="Google Cloud" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- Ory -->
+  <a href="https://www.ory.sh/"> <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" alt="Ory" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- Hashicorp Vault -->
+  <a href="https://www.vaultproject.io/"> <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- CaddyServer -->
+  <a href="https://caddyserver.com/"> <img src="https://caddyserver.com/resources/images/v2-landing.png" alt="Caddy Server" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Postgres -->
   <a href="https://www.postgresql.org/"> <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- MySQL -->
   <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- SQLite -->
   <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- NodeJs -->
+  <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- MacOS -->
+  <a href="https://www.apple.com/macos/"> <img src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Linux -->
   <a href="https://www.linux.org/"> <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- Windows -->
@@ -156,8 +152,16 @@ Take a look at some of my more interesting repositories!
   <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="30" style="vertical-align:top; margin:4px"></a>   
 </p>
 
-<p align="center" style="font-size:10px">
-  this is not an exhaustive list
+## Frameworks
+<p style="color: red;">
+  <!-- Flutter -->
+  <a href="https://flutter.dev/"> <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- VueJS -->
+  <a href="https://vuejs.org/"> <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- ExpressJS -->
+  <a href="https://expressjs.com/"> <img src="https://www.pinga.us/img/expressjs.png" alt="ExpressJS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- GoKit -->
+  <a href="https://gokit.io/"> <img src="https://gokit.io/gokit-logo-header.png" alt="GoKit" height="30" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 
@@ -172,3 +176,25 @@ Take a look at some of my more interesting repositories!
   <!-- Android Icon -->
   <!-- <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>  -->
 <!-- </p> -->
+
+## History
+<p>
+  <!-- Comnoco Logo -->
+  <a href="https://comnoco.io/">
+    <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  </a>
+   
+  <!-- Lancaster University Logo -->
+  <a href="https://lancaster.ac.uk/">
+    <img src="https://www.lancaster.ac.uk/media/wdp/style-assets/images/foundation/lu-shield.svg" alt="Lancaster University" height="70" style="vertical-align:top; margin:4px">
+  </a>
+   
+  <!--  Samsung  -->
+  <a href="https://samsung.co.uk/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samsung_wordmark.svg/1600px-Samsung_wordmark.svg.png?20211020072635" alt="A Samsung Project" height="30" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<p align="center" style="font-size:10px">
+  these are not exhaustive lists
+</p>
