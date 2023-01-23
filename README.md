@@ -177,23 +177,23 @@ Take a look at some of my more interesting repositories!
   <!-- <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>  -->
 <!-- </p> -->
 
-## History
-<p>
+<!-- ## History -->
+<!-- <p> -->
   <!-- Comnoco Logo -->
-  <a href="https://comnoco.io/">
+<!--   <a href="https://comnoco.io/">
     <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-  </a>
+  </a> -->
    
   <!-- Lancaster University Logo -->
-  <a href="https://lancaster.ac.uk/">
+<!--   <a href="https://lancaster.ac.uk/">
     <img src="https://www.lancaster.ac.uk/media/wdp/style-assets/images/foundation/lu-shield.svg" alt="Lancaster University" height="70" style="vertical-align:top; margin:4px">
-  </a>
+  </a> -->
    
   <!--  Samsung  -->
-  <a href="https://samsung.co.uk/">
+<!--   <a href="https://samsung.co.uk/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samsung_wordmark.svg/1600px-Samsung_wordmark.svg.png?20211020072635" alt="A Samsung Project" height="30" style="vertical-align:top; margin:4px">
-  </a>
-</p>
+  </a> -->
+<!-- </p> -->
 
 <p align="center" style="font-size:10px">
   these are not exhaustive lists
