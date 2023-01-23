@@ -156,6 +156,8 @@ Take a look at some of my more interesting repositories!
 <p style="color: red;">
   <!-- Flutter -->
   <a href="https://flutter.dev/"> <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- React -->
+  <a href="https://reactjs.org/"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React.js" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- VueJS -->
   <a href="https://vuejs.org/"> <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="30" style="vertical-align:top; margin:4px"></a> 
   <!-- ExpressJS -->
