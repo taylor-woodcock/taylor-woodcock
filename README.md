@@ -28,7 +28,7 @@ I am proficient in Go and have gained expertise in navigating unfamiliar technol
 
 <br>
 
-In addition to software development, I also have a love for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more. I also love 3D printing, and have a modded Ender Pro 3 <i style="font-size:8px">that I use to print [atriculated slugs](https://www.thingiverse.com/thing:2818955)</i>
+In addition to software development, I also have a love for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more. I also love 3D printing, and have a modded Ender Pro 3 that I use to print <i style="font-size:8px">[articulated slugs](https://www.thingiverse.com/thing:2818955)</i> and things I make in Fusion 360!
 
 <br>
 
