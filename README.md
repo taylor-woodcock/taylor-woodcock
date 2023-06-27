@@ -196,8 +196,8 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
   <!-- iOS -->
-  <a href="https://www.android.com/">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="Android">
+  <a href="https://www.apple.com/uk/ios">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
   </a>
 </p>
 
