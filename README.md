@@ -49,27 +49,14 @@ When I'm not coding, you'll find me playing music, making something, playing gam
 </p>
 
 <p align="center">
-  <a href="https://taylo.dev/">taylo.dev</a>
-</p>
-
-<p align="center">
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/taylor-woodcock/"
-     target="_blank"
-     rel="noopener noreferrer">
-    <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg"
-         alt="LinkedIn"
-         height="30"
-         style="vertical-align:top; margin:4px">
-  </a> 
-  <!-- Twitter Icon -->
-  <a href="https://twitter.com/tt_aa_yy"
-     target="_blank"
-     rel="noopener noreferrer">
-    <img src="https://cdn.svgporn.com/logos/twitter.svg"
-         alt="Twitter"
-         height="30"
-         style="vertical-align:top; margin:4px">
+  <a href="https://www.linkedin.com/in/taylor-woodcock/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://taylo.dev/">
+    <img src="https://img.shields.io/badge/taylo.dev-FF66B6?style=for-the-badge&logo=internetexplorer" alt="taylo.dev">
+  </a>
+  <a href="https://twitter.com/tt_aa_yy">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
@@ -91,79 +78,155 @@ Take a look at some of my more interesting repositories!
 ## Languages
 <p>
   <!-- GoLang -->
-  <a href="https://golang.org/"> <img src="https://cdn.svgporn.com/logos/go.svg" alt="GoLang" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GoLang">
+  </a>
   <!-- Dart -->
-  <a href="https://dart.dev/"> <img src="https://cdn.svgporn.com/logos/dart.svg" alt="Dart" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
   <!-- Java -->
-  <a href="https://www.java.com/en/"> <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
   <!-- Python -->
-  <a href="https://www.python.org/"> <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
   <!-- C++ -->
-  <a href="https://www.cplusplus.com/"> <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.cplusplus.com/">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
   <!-- C# -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  </a>
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  </a>
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/"> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
   <!-- HTML5 -->
-  <a href="https://html.com/"> <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
   <!-- CSS3 -->
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
 </p>
 
 ## Technologies
 <p>
 <!-- GitHub -->
-  <a href="https://www.github.com/taylow/"> <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Git" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- Google Cloud -->
-  <a href="https://cloud.google.com/"> <img src="https://cdn.svgporn.com/logos/google-cloud.svg" alt="Google Cloud" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.github.com/taylow/">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
   <!-- AWS -->
-  <a href="https://aws.amazon.com/"> <img src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  </a>
   <!-- Docker -->
-  <a href="https://docker.com/"> <img src="https://cdn.svgporn.com/logos/docker.svg" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://docker.com/">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
   <!-- Kubernetes -->
-  <a href="https://kubernetes.io/"> <img src="https://cdn.svgporn.com/logos/kubernetes.svg" alt="Kubernetes" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
   <!-- Ory -->
-  <a href="https://www.ory.sh/"> <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" alt="Ory" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- <a href="https://www.ory.sh/">
+    <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" alt="Ory">
+  </a> -->
   <!-- Hashicorp Vault -->
-  <a href="https://www.vaultproject.io/"> <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- <a href="https://www.vaultproject.io/">
+    <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault">
+  </a> -->
   <!-- CaddyServer -->
-  <a href="https://caddyserver.com/"> <img src="https://caddyserver.com/resources/images/v2-landing.png" alt="Caddy Server" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- <a href="https://caddyserver.com/">
+    <img src="https://caddyserver.com/resources/images/v2-landing.png" alt="Caddy Server">
+  </a> -->
   <!-- Postgres -->
-  <a href="https://www.postgresql.org/"> <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  </a>
   <!-- MySQL -->
-  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
   <!-- SQLite -->
-  <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  </a>
   <!-- NodeJs -->
-  <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  </a>
   <!-- Firebase -->
-  <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+  </a>
+  <!-- Supabase -->
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  </a>
+
+## Operating Systems
   <!-- MacOS -->
-  <a href="https://www.apple.com/macos/"> <img src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.apple.com/macos/">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS">
+  </a>
   <!-- Linux -->
-  <a href="https://www.linux.org/"> <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
   <!-- Windows -->
-  <a href="https://www.microsoft.com/en-gb/windows"> <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.microsoft.com/en-gb/windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
   <!-- Android -->
-  <a href="https://www.android.com/"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a> 
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="30" style="vertical-align:top; margin:4px"></a>   
+  <a href="https://www.android.com/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  </a>
+  <!-- iOS -->
+  <a href="https://www.android.com/">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="Android">
+  </a>
 </p>
 
-## Frameworks
+## Technologies and Frameworks
 <p style="color: red;">
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/en/software">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+  </a>
   <!-- Flutter -->
-  <a href="https://flutter.dev/"> <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  </a>
   <!-- React -->
-  <a href="https://reactjs.org/"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React.js" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  </a>
   <!-- VueJS -->
-  <a href="https://vuejs.org/"> <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue.js" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+  </a>
   <!-- ExpressJS -->
-  <a href="https://expressjs.com/"> <img src="https://www.pinga.us/img/expressjs.png" alt="ExpressJS" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
+  </a>
   <!-- GoKit -->
-  <a href="https://gokit.io/"> <img src="https://gokit.io/gokit-logo-header.png" alt="GoKit" height="30" style="vertical-align:top; margin:4px"></a> 
+  <!-- <a href="https://gokit.io/">
+    <img src="https://gokit.io/gokit-logo-header.png" alt="GoKit">
+  </a> -->
 </p>
 
 
@@ -198,5 +261,5 @@ Take a look at some of my more interesting repositories!
 <!-- </p> -->
 
 <p align="center" style="font-size:10px">
-  these are not exhaustive lists
+  this is not an exhaustive list
 </p>
