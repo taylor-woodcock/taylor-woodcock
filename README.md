@@ -1,6 +1,6 @@
-<h1 align='center'>Hello, I'm Taylor! 👋</h1>
+<h1 align="center">Hello, I'm Taylor! 👋</h1>
 
-<p align='center'>
+<p align="center">
   Welcome to my GitHub profile!
 </p>
 
@@ -8,25 +8,29 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
 
 <details>
 
-  <summary>Who am I?</summary>
+  <summary>What do I do?</summary>
 
   <br>
 
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-  
+  <p align="center">
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  </p>
+
   I am proficient in Go and have gained expertise in navigating unfamiliar technology through my experience with a wide range of languages and technologies.
 
   <br>
 
-  <img src="https://cdn-icons-png.flaticon.com/512/6213/6213962.png" alt="No Code" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/6213/6213962.png" alt="No Code" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  </p>
 
   I have worked on a few no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, another is [Comnoco](https://comnoco.com/), building a visual programming language and functions as a service no-code platform.
 
   <br>
 
-  <a href="#">
+  <p align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/7309/7309625.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-  </a>
+  </p>
 
   I have a passion for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more, and enjoy mixing reality with the digital world.
 
@@ -34,9 +38,9 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
 
   <br>
 
-  <a href="#">
+  <p align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/3902/3902837.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-  </a>
+  </p>
 
   When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
 
