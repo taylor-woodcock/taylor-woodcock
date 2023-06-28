@@ -4,7 +4,7 @@
   Welcome to my GitHub profile!
 </p>
 
-I'm a software engineer who loves to learn new things and build cool stuff. I don't limit myself to a specific stack, and can quickly adapt to any technology thrown at me. I'm a maker and enjoy experimenting with different tools and techniques to bring ideas to life.
+I'm a software engineer who loves to learn new things, and build cool stuff. I don't limit myself to a specific stack, and can quickly adapt to any technology presented to me. I'm a maker and enjoy experimenting with different tools and techniques to bring ideas to life.
 
 <details>
 
@@ -28,7 +28,7 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
     </a>
   </p>
 
-  I have worked on a few no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, another is [Comnoco](https://comnoco.com/), building a visual programming language and functions as a service no-code platform.
+  I have worked on a few no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, another is [Comnoco](https://comnoco.com/), building a visual programming language and functions-as-a-service no-code platform.
 
   <br>
 
