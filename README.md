@@ -239,7 +239,11 @@ Take a look at some of my more interesting repositories!
   </a>
   <!-- Tidal -->
   <a href="https://tidal.com/">
-    <img src="https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black" alt="Tidal">
+    <img src="https://img.shields.io/badge/tidal-000000?style=for-the-badge&logo=tidal&logoColor=white" alt="Tidal">
+  </a>
+  <!-- Ableton Live -->
+  <a href="https://tidal.com/">
+    <img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton Live">
   </a>
 
 
@@ -277,6 +281,10 @@ Take a look at some of my more interesting repositories!
   <!-- Espressif -->
   <a href="https://espressif.com/">
     <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif">
+  </a>
+  <!-- micro:bit -->
+  <a href="https://microbit.org/">
+    <img src="https://img.shields.io/badge/micro:bit-00ed00.svg?style=for-the-badge&logo=microbit&logoColor=white" alt="Espressif">
   </a>
 </p>
 
