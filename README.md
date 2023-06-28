@@ -67,7 +67,7 @@ I'm a software engineer who loves to learn new things and build cool stuff. I do
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taylor-woodcock/">
+  <a href="https://linkedin.com/in/taylor-woodcock/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://taylo.dev/">
@@ -104,15 +104,15 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
   <!-- Java -->
-  <a href="https://www.java.com/en/">
+  <a href="https://java.com/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
   <!-- Python -->
-  <a href="https://www.python.org/">
+  <a href="https://python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   </a>
   <!-- C++ -->
-  <a href="https://www.cplusplus.com/">
+  <a href="https://cplusplus.com/">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
   <!-- C# -->
@@ -124,7 +124,7 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   </a>
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
   <!-- HTML5 -->
@@ -132,7 +132,7 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <!-- CSS3 -->
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+  <a href="https://w3.org/Style/CSS/Overview.en.html">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
 </p>
@@ -140,7 +140,7 @@ Take a look at some of my more interesting repositories!
 ## Technologies
 <p>
 <!-- GitHub -->
-  <a href="https://www.github.com/taylow/">
+  <a href="https://github.com/taylow/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
   <!-- AWS -->
@@ -160,11 +160,11 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   </a>
   <!-- Ory -->
-  <!-- <a href="https://www.ory.sh/">
+  <!-- <a href="https://ory.sh/">
     <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" alt="Ory">
   </a> -->
   <!-- Hashicorp Vault -->
-  <a href="https://www.vaultproject.io/">
+  <a href="https://vaultproject.io/">
     <img src="https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" alt="Hashicorp Vault">
     <!-- <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault"> -->
   </a>
@@ -173,15 +173,15 @@ Take a look at some of my more interesting repositories!
     <img src="https://caddyserver.com/resources/images/v2-landing.png" alt="Caddy Server">
   </a> -->
   <!-- Postgres -->
-  <a href="https://www.postgresql.org/">
+  <a href="https://postgresql.org/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   </a>
   <!-- MySQL -->
-  <a href="https://www.mysql.com/">
+  <a href="https://mysql.com/">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
   <!-- SQLite -->
-  <a href="https://www.sqlite.org/index.html">
+  <a href="https://sqlite.org/index.html">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   </a>
   <!-- NodeJs -->
@@ -199,23 +199,23 @@ Take a look at some of my more interesting repositories!
 
 ## Operating Systems
   <!-- MacOS -->
-  <a href="https://www.apple.com/macos/">
+  <a href="https://apple.com/macos/">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS">
   </a>
   <!-- Linux -->
-  <a href="https://www.linux.org/">
+  <a href="https://linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
   <!-- Windows -->
-  <a href="https://www.microsoft.com/en-gb/windows">
+  <a href="https://microsoft.com/en-gb/windows">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   </a>
   <!-- Android -->
-  <a href="https://www.android.com/">
+  <a href="https://android.com/">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
   <!-- iOS -->
-  <a href="https://www.apple.com/uk/ios">
+  <a href="https://apple.com/uk/ios">
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
   </a>
 </p>
@@ -234,7 +234,7 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode">
   </a>
   <!-- Obsidian -->
-  <a href="https://www.obsidian.md/">
+  <a href="https://obsidian.md/">
     <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
   </a>
   <!-- Tidal -->
@@ -271,44 +271,16 @@ Take a look at some of my more interesting repositories!
 ## Hardware
 <p style="color: red;">
   <!-- Arduino -->
-  <a href="https://www.arduino.cc/en/software">
+  <a href="https://arduino.cc/en/software">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   </a>
   <!-- Espressif -->
-  <a href="https://www.espressif.com/">
+  <a href="https://espressif.com/">
     <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif">
   </a>
 </p>
 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" /> -->
-
-<!-- ## Environment and Tools -->
-<!-- <p> -->
-  <!-- VSCode Icon -->
-  <!-- <a href="https://code.visualstudio.com/"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="30" style="vertical-align:top; margin:4px"></a>  -->
-  <!-- Arduino Icon -->
-  <!-- <a href="https://www.arduino.cc/en/software"> <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" height="30" style="vertical-align:top; margin:4px"></a>  -->
-  <!-- Android Icon -->
-  <!-- <a href="https://developer.android.com/studio"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>  -->
-<!-- </p> -->
-
-<!-- ## History -->
-<!-- <p> -->
-  <!-- Comnoco Logo -->
-<!--   <a href="https://comnoco.io/">
-    <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-  </a> -->
-   
-  <!-- Lancaster University Logo -->
-<!--   <a href="https://lancaster.ac.uk/">
-    <img src="https://www.lancaster.ac.uk/media/wdp/style-assets/images/foundation/lu-shield.svg" alt="Lancaster University" height="70" style="vertical-align:top; margin:4px">
-  </a> -->
-   
-  <!--  Samsung  -->
-<!--   <a href="https://samsung.co.uk/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samsung_wordmark.svg/1600px-Samsung_wordmark.svg.png?20211020072635" alt="A Samsung Project" height="30" style="vertical-align:top; margin:4px">
-  </a> -->
-<!-- </p> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" /> -->
 
 <p align="center" style="font-size:10px">
   this is not an exhaustive list
