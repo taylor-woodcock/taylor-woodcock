@@ -6,37 +6,41 @@
 
 I'm a software engineer who loves to learn new things and build cool stuff. I don't limit myself to a specific stack, and can quickly adapt to any technology thrown at me. I'm a maker and enjoy experimenting with different tools and techniques to bring ideas to life.
 
-<br>
+<details>
 
-<!-- Comnoco Logo -->
-<!-- <a href="https://comnoco.io/">
-  <img src="https://comnoco.io/images/favicon.png" alt="Comnoco.io" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-</a> -->
+  <summary>Who am I?</summary>
 
-I have worked on a few no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, another is [Comnoco](https://comnoco.com/), building a visual programming language and functions as a service no-code platform.
+  <br>
 
-<br>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GoLang" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  
+  I am proficient in Go and have gained expertise in navigating unfamiliar technology through my experience with a wide range of languages and technologies.
 
-<!-- GoLang Gopher -->
-<!-- <a href="https://golang.org/">
-  <img src="https://cdn.svgporn.com/logos/gopher.svg" alt="GoLang" height="200" style="float:right;vertical-align:top; margin-left:30px; margin-right:30px;">
-</a> -->
+  <br>
 
-I am proficient in Go and have gained expertise in navigating unfamiliar technology through my experience with a wide range of languages and technologies.
+  <img src="https://cdn-icons-png.flaticon.com/512/6213/6213962.png" alt="No Code" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
 
-<!-- My go-to language is currently Go, but I have experience with a wide range of languages and technologies, and have developed skills that allow me to efficiently navigate the unknown. -->
+  I have worked on a few no-code tools - one being [MakeCode for the BBC micro:bit](https://makecode.microbit.org/) working with Lancaster University and Samsung to bring internet connectivity to the micro:bit, another is [Comnoco](https://comnoco.com/), building a visual programming language and functions as a service no-code platform.
 
-<br>
+  <br>
 
-In addition to software development, I also have a love for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more. I also love 3D printing, and have a modded Ender Pro 3 that I use to print <i style="font-size:8px">[articulated slugs](https://www.thingiverse.com/thing:2818955)</i> and things I make in Fusion 360!
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/7309/7309625.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  </a>
 
-<br>
+  I have a passion for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more, and enjoy mixing reality with the digital world.
 
-<!-- <a href="#">
-  <img src="https://cdn-icons-png.flaticon.com/512/3902/3902837.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
-</a> -->
+  I also love 3D printing, and have a modded Ender Pro 3 that I use to print things I make in Fusion 360 <i style="font-size:8px">and [articulated slugs](https://www.thingiverse.com/thing:2818955)</i>
 
-When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
+  <br>
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/3902/3902837.png" alt="music" height="70" style="float:left;vertical-align:top; margin-left:px; margin-right:20px;">
+  </a>
+
+  When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
+
+</details>
 
 <br>
 
@@ -45,7 +49,7 @@ When I'm not coding, you'll find me playing music, making something, playing gam
 </p>
 
 <p align="center">
-  <br>⬇  find me  ⬇
+  <img src="https://img.shields.io/badge/⬇     ⬇     find me     ⬇     ⬇-FF66B6?style=for-the-badge" alt="find me">
 </p>
 
 <p align="center">
@@ -60,9 +64,9 @@ When I'm not coding, you'll find me playing music, making something, playing gam
   </a>
 </p>
 
-<p align="center" style="font-size:10px">
+<!-- <p align="center" style="font-size:10px">
   🌗 Some icons may be difficult to see in dark mode - sorry :c 🌓
-</p>
+</p> -->
 
 <!-- ## My Repos
 Take a look at some of my more interesting repositories!
@@ -146,9 +150,10 @@ Take a look at some of my more interesting repositories!
     <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" alt="Ory">
   </a> -->
   <!-- Hashicorp Vault -->
-  <!-- <a href="https://www.vaultproject.io/">
-    <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault">
-  </a> -->
+  <a href="https://www.vaultproject.io/">
+    <img src="https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" alt="Hashicorp Vault">
+    <!-- <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault"> -->
+  </a>
   <!-- CaddyServer -->
   <!-- <a href="https://caddyserver.com/">
     <img src="https://caddyserver.com/resources/images/v2-landing.png" alt="Caddy Server">
@@ -201,12 +206,32 @@ Take a look at some of my more interesting repositories!
   </a>
 </p>
 
-## Technologies and Frameworks
-<p style="color: red;">
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/en/software">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+## Tools
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  </a>
+  <!-- Xcode -->
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode">
+  </a>
+  <!-- Obsidian -->
+  <a href="https://www.obsidian.md/">
+    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+  </a>
+  <!-- Tidal -->
+  <a href="https://tidal.com/">
+    <img src="https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black" alt="Tidal">
+  </a>
+
+
+
+## Frameworks
+<p style="color: red;">
   <!-- Flutter -->
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
@@ -229,6 +254,17 @@ Take a look at some of my more interesting repositories!
   </a> -->
 </p>
 
+## Hardware
+<p style="color: red;">
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/en/software">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+  </a>
+  <!-- Espressif -->
+  <a href="https://www.espressif.com/">
+    <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif">
+  </a>
+</p>
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" /> -->
 
@@ -262,4 +298,6 @@ Take a look at some of my more interesting repositories!
 
 <p align="center" style="font-size:10px">
   this is not an exhaustive list
+  </br></br>
+  <img src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
 </p>
