@@ -242,7 +242,7 @@ Take a look at some of my more interesting repositories!
     <img src="https://img.shields.io/badge/tidal-000000?style=for-the-badge&logo=tidal&logoColor=white" alt="Tidal">
   </a>
   <!-- Ableton Live -->
-  <a href="https://tidal.com/">
+  <a href="https://ableton.com/">
     <img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton Live">
   </a>
 
