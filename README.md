@@ -4,11 +4,12 @@
   Welcome to my GitHub profile!
 </p>
 
-I'm a software engineer who loves to learn new things, and build cool stuff. I don't limit myself to a specific stack, and can quickly adapt to any technology presented to me. I'm a maker and enjoy experimenting with different tools and techniques to bring ideas to life.
+I'm a software engineer who loves to learn new things, and build cool stuff. I'm flexible, and can quickly adapt to existing systems.
+I'm a maker in my free time, and enjoy experimenting with different tools and techniques to bring ideas to life.
 
 <details>
 
-  <summary>What do I do?</summary>
+  <summary>Details</summary>
 
   <br>
 
@@ -18,8 +19,8 @@ I'm a software engineer who loves to learn new things, and build cool stuff. I d
     </a>
   </p>
 
-  I am proficient in Go and have gained expertise in navigating unfamiliar technology through my experience with a wide range of languages and technologies.
-
+  I am proficient in Go, and use other languages often.
+  
   <br>
 
   <p align="center">
@@ -38,9 +39,9 @@ I'm a software engineer who loves to learn new things, and build cool stuff. I d
     </a>
   </p>
 
-  I have a passion for embedded systems and have worked with micro:bits, ESP32s, Arduinos, and more, and enjoy mixing reality with the digital world.
+  I use embedded systems, such as the ESP32, Arduino, and micro:bit, to mix reality with the digital world.
 
-  I also love 3D printing, and have a modded Ender Pro 3 that I use to print things I make in Fusion 360 <i style="font-size:8px">and [articulated slugs](https://www.thingiverse.com/thing:2818955)</i>
+  I also 3D print things, and have a modded Ender Pro 3 that I use to bring my Fusion 360 designs to life... <i style="font-size:8px">and print [articulated slugs](https://www.thingiverse.com/thing:2818955), of course</i>
 
   <br>
 
@@ -50,21 +51,21 @@ I'm a software engineer who loves to learn new things, and build cool stuff. I d
     </a>
   </p>
 
-  When I'm not coding, you'll find me playing music, making something, playing games, or spending time with my cats, or somehow all of the above 😸
+  When I'm not coding, I'll be either playing music, making something, playing games, or spending time with my cats... sometimes all of the above
 
 </details>
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   Thanks for stopping by and I hope you find something interesting here! 🔥
-</p>
+</p> -->
 
-<p align="center">
+<!--<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/⬇     ⬇     find me     ⬇     ⬇-FF66B6?style=for-the-badge" alt="find me">
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/taylor-woodcock/">
@@ -73,8 +74,8 @@ I'm a software engineer who loves to learn new things, and build cool stuff. I d
   <a href="https://taylo.dev/">
     <img src="https://img.shields.io/badge/taylo.dev-FF66B6?style=for-the-badge&logo=internetexplorer" alt="taylo.dev">
   </a>
-  <a href="https://twitter.com/tt_aa_yy">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  <a href="https://circal.dev/">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
@@ -288,10 +289,8 @@ Take a look at some of my more interesting repositories!
   </a>
 </p>
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=taylow&show_icons=true&count_private=true&theme=tokyonight" align="right" /> -->
-
-<p align="center" style="font-size:10px">
+<!--<p align="center" style="font-size:10px">
   this is not an exhaustive list
   </br></br>
-  <img src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
-</p>
+  <img hidden="hidden" src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
+</p>-->
