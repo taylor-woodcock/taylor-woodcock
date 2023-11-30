@@ -163,16 +163,16 @@ Take a look at some of my more interesting repositories!
   <!-- Ory -->
   <!-- <a href="https://ory.sh/">
     <img src="https://raw.githubusercontent.com/ory/.github/README/img/ory.png" alt="Ory">
+    <img src="https://img.shields.io/badge/ory-%23000000.svg?style=for-the-badge&logo=ory&logoColor=white" alt="Ory">
   </a> -->
   <!-- Hashicorp Vault -->
   <a href="https://vaultproject.io/">
     <img src="https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" alt="Hashicorp Vault">
-    <!-- <img src="https://cdn.svgporn.com/logos/vault-icon.svg" alt="Hashicorp Vault"> -->
   </a>
   <!-- CaddyServer -->
-  <!-- <a href="https://caddyserver.com/">
-    <img src="https://caddyserver.com/resources/images/v2-landing.png" alt="Caddy Server">
-  </a> -->
+  <a href="https://caddyserver.com/">
+    <img src="https://img.shields.io/badge/caddy-%231F88C0.svg?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy">
+  </a>
   <!-- Postgres -->
   <a href="https://postgresql.org/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -185,9 +185,9 @@ Take a look at some of my more interesting repositories!
   <a href="https://sqlite.org/index.html">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   </a>
-  <!-- NodeJs -->
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <!-- Apache Cassandra -->
+  <a href="https://cassandra.apache.org/">
+    <img src="https://img.shields.io/badge/cassandra-%23afe8fe.svg?style=for-the-badge&logo=apachecassandra" alt="Cassandra">
   </a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/">
@@ -197,6 +197,34 @@ Take a look at some of my more interesting repositories!
   <a href="https://supabase.com/">
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   </a>
+  <!-- NodeJs -->
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  </a>
+
+## Frameworks
+<p style="color: red;">
+  <!-- React -->
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  </a>
+  <!-- Flutter -->
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  </a>
+  <!-- VueJS -->
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+  </a>
+  <!-- ExpressJS -->
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
+  </a>
+  <!-- GoKit -->
+  <!-- <a href="https://gokit.io/">
+    <img src="https://gokit.io/gokit-logo-header.png" alt="GoKit">
+  </a> -->
+</p>
 
 ## Operating Systems
   <!-- MacOS -->
@@ -246,32 +274,6 @@ Take a look at some of my more interesting repositories!
   <a href="https://ableton.com/">
     <img src="https://img.shields.io/badge/Ableton Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton Live">
   </a>
-
-
-
-## Frameworks
-<p style="color: red;">
-  <!-- Flutter -->
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  </a>
-  <!-- VueJS -->
-  <a href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-  </a>
-  <!-- ExpressJS -->
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
-  </a>
-  <!-- GoKit -->
-  <!-- <a href="https://gokit.io/">
-    <img src="https://gokit.io/gokit-logo-header.png" alt="GoKit">
-  </a> -->
-</p>
 
 ## Hardware
 <p style="color: red;">
