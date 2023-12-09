@@ -311,3 +311,11 @@ Take a look at some of my more interesting repositories!
   </br></br>
   <img hidden="hidden" src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
 </p>-->
+
+<!-- 
+
+Icons: https://simpleicons.org/
+Badges: https://ileriayo.github.io/markdown-badges/
+Wakatime: https://github.com/athul/waka-readme
+
+ -->
