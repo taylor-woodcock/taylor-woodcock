@@ -7,6 +7,8 @@
 I'm a software engineer who loves to learn new things, and build cool stuff. I'm flexible, and can quickly adapt to existing systems.
 I'm a maker in my free time, and enjoy experimenting with different tools and techniques to bring ideas to life.
 
+Go checkout my most recent project: [Awaik - service uptime monitoring platform](https://github.com/taylow/awaik-backend)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
