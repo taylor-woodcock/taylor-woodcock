@@ -9,18 +9,6 @@ I'm a maker in my free time, and enjoy experimenting with different tools and te
 
 Go checkout my most recent project: [Awaik - service uptime monitoring platform](https://github.com/taylow/awaik-backend)
 
-<!--START_SECTION:waka-->
-
-```txt
-Markdown          33 mins         ████████████████████▓░░░░   82.77 %
-YAML              5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Go                1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-```
-
-<!--END_SECTION:waka-->
-
 <details>
 
   <summary>Details</summary>
@@ -322,6 +310,21 @@ Take a look at some of my more interesting repositories!
   </br></br>
   <img hidden="hidden" src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
 </p>-->
+
+## Wakatime stats
+
+<!--START_SECTION:waka-->
+
+```txt
+Markdown          33 mins         ████████████████████▓░░░░   82.77 %
+YAML              5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Go                1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+```
+
+<!--END_SECTION:waka-->
+
 
 <!-- 
 
