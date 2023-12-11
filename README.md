@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hello, I'm Taylor! 👋</h1> -->
 <p align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20I'm%20Taylor!&fontSize=70&color=0:ffaacc,100:BF40BF&fontColor=00ADD8&stroke=0&strokeWidth=0.6&animation=fadeIn" alt="hello I'm taylor">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20I'm%20Taylor!%20👋&fontSize=70&color=0:ffaacc,100:BF40BF&fontColor=00ADD8&stroke=0&strokeWidth=0.6&animation=fadeIn" alt="hello I'm taylor">
   </a>
 </p>
 
