@@ -125,6 +125,10 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
   <a href="https://terraform.io/"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
   <!-- Hashicorp Vault -->
   <a href="https://vaultproject.io/"><img src="https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" alt="Hashicorp Vault" /></a>
+  <!-- Apache Cassandra -->
+  <a href="https://cassandra.apache.org/"><img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" /></a>
+  <!-- Apache Kafka -->
+  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka" alt="Kafka" /></a>
   <!-- CaddyServer -->
   <a href="https://caddyserver.com/"><img src="https://img.shields.io/badge/caddy-%231F88C0.svg?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" /></a>
   <!-- Postgres -->
@@ -135,10 +139,6 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
   <a href="https://sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
   <!-- Redis -->
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="SQLite" /></a>
-  <!-- Apache Cassandra -->
-  <a href="https://cassandra.apache.org/"><img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" /></a>
-  <!-- Apache Kafka -->
-  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka" alt="Kafka" /></a>
   <!-- NATS -->
   <a href="https://nats.io/"><img src="https://img.shields.io/badge/NATS.io-%2327AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white" alt="Kafka" /></a>
   <!-- Firebase -->
