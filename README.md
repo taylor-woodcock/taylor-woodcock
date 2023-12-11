@@ -1,14 +1,21 @@
-<h1 align="center">Hello, I'm Taylor! 👋</h1>
+<!-- <h1 align="center">Hello, I'm Taylor! 👋</h1> -->
+<p align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello,%20I'm%20Taylor!&fontSize=70&color=0:ffaacc,100:BF40BF&fontColor=00ADD8&stroke=0&strokeWidth=0.6&animation=fadeIn" alt="hello I'm taylor">
+  </a>
+</p>
+  
 
 <p align="center">
   Welcome to my GitHub profile!
 </p>
 
-I'm a software engineer who loves to learn new things, and build cool stuff. I'm flexible, and can quickly adapt to existing systems.
-I'm a maker in my free time, and enjoy experimenting with different tools and techniques to bring ideas to life.
+I'm an experienced software engineer who loves to learn new things, and build cool stuff. I'm flexible, and can quickly adapt to existing systems.
+I'm a maker at heart, and enjoy experimenting with different tools and techniques to bring ideas to life!
 
-Go checkout my most recent project: [Awaik - service uptime monitoring platform](https://github.com/taylow/awaik-backend)
+Go checkout my most recent project, where I explore production-ready, distributed, event-driven microservices from scratch → [Awaik - service uptime monitoring platform](https://github.com/taylow/awaik-backend)
 
+<br>
 <details>
 
   <summary>Details</summary>
@@ -311,11 +318,12 @@ Take a look at some of my more interesting repositories!
   <img hidden="hidden" src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
 </p>-->
 
-## Wakatime stats
+## Weekly Stats
+
 
 <!--START_SECTION:waka-->
 
-```txt
+```go
 Go                1 hr 22 mins    ███████████░░░░░░░░░░░░░░   43.50 %
 Markdown          55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.34 %
 YAML              39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
@@ -325,6 +333,7 @@ Java Properties   3 mins          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+(👆 this is new and might not be accurate just yet)
 
 <!-- 
 
