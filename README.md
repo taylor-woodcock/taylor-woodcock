@@ -316,11 +316,11 @@ Take a look at some of my more interesting repositories!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          33 mins         ████████████████████▓░░░░   82.77 %
-YAML              5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Go                1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Go                1 hr 22 mins    ███████████░░░░░░░░░░░░░░   43.50 %
+Markdown          55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+YAML              39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
