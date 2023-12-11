@@ -141,6 +141,8 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="SQLite" /></a>
   <!-- NATS -->
   <a href="https://nats.io/"><img src="https://img.shields.io/badge/NATS.io-%2327AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white" alt="Kafka" /></a>
+  <!-- MinIO -->
+  <a href="https://min.io/"><img src="https://img.shields.io/badge/minio-%23C72E49.svg?style=for-the-badge&logo=minio&logoColor=white" alt="Markdown" /></a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /></a>
   <!-- Supabase -->
