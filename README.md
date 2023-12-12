@@ -227,12 +227,21 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 
 <!--START_SECTION:waka-->
 
-```txt
-Go                1 hr 22 mins    ███████████░░░░░░░░░░░░░░   43.50 %
-Markdown          55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-YAML              39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+```go
+Markdown          3 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+Go                2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
+TOML              1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+YAML              44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Other             40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+XML               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Git Config        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Java Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Makefile          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+HTML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CSS               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
