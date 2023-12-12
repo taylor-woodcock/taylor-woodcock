@@ -15,3 +15,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 1337
+          CODE_LANG: go
