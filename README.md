@@ -228,8 +228,7 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Go           43 mins         ███████████████████▓░░░░░   78.56 %
-TypeScript   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
