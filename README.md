@@ -228,14 +228,13 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Go                2 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   40.69 %
-SQL               2 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
-Other             26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-TypeScript        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Protocol Buffer   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Markdown          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Vue.js            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Go                2 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.73 %
+SQL               1 hr 57 mins    █████████░░░░░░░░░░░░░░░░   36.23 %
+Other             26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+TypeScript        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Protocol Buffer   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Markdown          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Vue.js            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
