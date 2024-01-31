@@ -228,12 +228,11 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Go                2 hrs 18 mins   █████████████████░░░░░░░░   68.42 %
-SQL               28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Other             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Protocol Buffer   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Markdown          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Go                2 hrs 18 mins   ████████████████▓░░░░░░░░   66.32 %
+SQL               28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Other             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Protocol Buffer   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Markdown          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
