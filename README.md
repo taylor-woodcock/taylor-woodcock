@@ -228,10 +228,12 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Go         1 hr 5 mins     ████████████████▒░░░░░░░░   65.63 %
-Other      19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-Markdown   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-SQL        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Go         1 hr 21 mins    ██████████████▓░░░░░░░░░░   59.31 %
+Markdown   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Other      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Dart       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+SQL        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
