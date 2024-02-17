@@ -228,8 +228,7 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-SQL   2 mins          █████████████████▒░░░░░░░   69.16 %
-Go    0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
