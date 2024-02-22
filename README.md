@@ -228,7 +228,11 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-No activity tracked
+Vue.js       56 mins         █████████████▓░░░░░░░░░░░   54.18 %
+TypeScript   34 mins         ████████▒░░░░░░░░░░░░░░░░   33.13 %
+Go           11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Smarty       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
