@@ -228,17 +228,17 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-HTML              6 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   36.73 %
-Markdown          4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-CSS               3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Go                1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+HTML              6 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   36.82 %
+Markdown          4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+CSS               3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Go                1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 YAML              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 Other             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 TOML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-SCSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+SCSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 Vue.js            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Makefile          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Protocol Buffer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Protocol Buffer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 TypeScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 SQL               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
