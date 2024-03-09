@@ -228,15 +228,12 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-HTML         4 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.72 %
-Markdown     2 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
-CSS          2 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Makefile     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML         1 hr 40 mins    ███████████░░░░░░░░░░░░░░   44.54 %
+Markdown     49 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+YAML         48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+SSH Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
