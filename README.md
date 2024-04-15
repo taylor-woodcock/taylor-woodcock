@@ -228,13 +228,13 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Go           2 hrs 23 mins   ██████████████░░░░░░░░░░░   55.65 %
-TypeScript   1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-Markdown     23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go           4 hrs 35 mins   █████████████████░░░░░░░░   67.64 %
+TypeScript   1 hr 37 mins    ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+Markdown     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
