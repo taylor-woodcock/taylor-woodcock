@@ -228,12 +228,12 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Go           9 hrs 33 mins   ██████████████████▒░░░░░░   72.77 %
-TypeScript   1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Markdown     1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Makefile     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Go           9 hrs 35 mins   ██████████████████▒░░░░░░   73.73 %
+TypeScript   1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Markdown     1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Makefile     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Docker       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
