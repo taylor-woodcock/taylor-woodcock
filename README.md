@@ -228,7 +228,13 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Markdown   6 mins          █████████████████████████   100.00 %
+C++        2 hrs 23 mins   ███████████████████████▓░   94.07 %
+Markdown   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
