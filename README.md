@@ -228,9 +228,9 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-C++        2 hrs 23 mins   ███████████████████████▓░   94.07 %
-Markdown   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C++        2 hrs 23 mins   ████████████████████████▓   98.02 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
