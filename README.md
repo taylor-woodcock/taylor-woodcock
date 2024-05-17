@@ -228,17 +228,10 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-C++               2 hrs 23 mins   ████████████████████▒░░░░   81.01 %
-Bash              16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Protocol Buffer   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Vue.js            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Markdown          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-TOML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-C                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash              16 mins         █████████████▒░░░░░░░░░░░   53.72 %
+Protocol Buffer   11 mins         █████████▒░░░░░░░░░░░░░░░   37.15 %
+Vue.js            2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
