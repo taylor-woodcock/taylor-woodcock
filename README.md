@@ -228,11 +228,11 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Markdown          31 mins         ████████████▓░░░░░░░░░░░░   50.22 %
-Bash              16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-Protocol Buffer   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Vue.js            2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown          49 mins         ███████████████▒░░░░░░░░░   61.63 %
+Bash              16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+Protocol Buffer   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Vue.js            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
