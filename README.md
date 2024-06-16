@@ -228,11 +228,11 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
 <!--START_SECTION:waka-->
 
 ```go
-Markdown   4 hrs 5 mins    ████████████████▒░░░░░░░░   65.32 %
-YAML       1 hr 32 mins    ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-Go         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown   3 hrs 23 mins   ████████████████▒░░░░░░░░   64.95 %
+YAML       1 hr 32 mins    ███████▒░░░░░░░░░░░░░░░░░   29.67 %
+Other      16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
