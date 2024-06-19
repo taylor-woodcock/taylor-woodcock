@@ -222,23 +222,13 @@ Go checkout my most recent project [Awaik - Service uptime monitoring platform](
   <img hidden="hidden" src="https://komarev.com/ghpvc/?username=taylow&style=for-the-badge" alt="profile views" style="display: none;">
 </p>-->
 
-## Weekly Stats
+<!--## Weekly Stats-->
 
 
 <!--START_SECTION:waka-->
-
-```go
-Markdown   2 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.56 %
-YAML       1 hr 17 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Other      46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Go         38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
-(👆 this is new and may not accurately represent how I spend my time!)
+<!--(👆 this is new and may not accurately represent how I spend my time!)-->
 
 <!-- 
 
